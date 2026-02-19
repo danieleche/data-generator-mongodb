@@ -1,0 +1,2802 @@
+[
+    {
+        "_id": "EA-1",
+        "id_estudiante": 90,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/90/1",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-06-08"
+    },
+    {
+        "_id": "EA-2",
+        "id_estudiante": 183,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/183/2",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2025-04-08"
+    },
+    {
+        "_id": "EA-3",
+        "id_estudiante": 55,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/55/3",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2026-02-07"
+    },
+    {
+        "_id": "EA-4",
+        "id_estudiante": 216,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/216/4",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2026-04-25"
+    },
+    {
+        "_id": "EA-5",
+        "id_estudiante": 133,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/133/5",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2025-11-10"
+    },
+    {
+        "_id": "EA-6",
+        "id_estudiante": 27,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/27/6",
+                "calificacion": 3.0
+            }
+        ],
+        "fecha_registro": "2025-01-16"
+    },
+    {
+        "_id": "EA-7",
+        "id_estudiante": 209,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/209/7",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2025-04-10"
+    },
+    {
+        "_id": "EA-8",
+        "id_estudiante": 20,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/20/8",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2025-01-03"
+    },
+    {
+        "_id": "EA-9",
+        "id_estudiante": 132,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/132/9",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2025-07-13"
+    },
+    {
+        "_id": "EA-10",
+        "id_estudiante": 111,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/111/10",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2026-01-19"
+    },
+    {
+        "_id": "EA-11",
+        "id_estudiante": 167,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/167/11",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2025-05-18"
+    },
+    {
+        "_id": "EA-12",
+        "id_estudiante": 194,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/194/12",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-03-16"
+    },
+    {
+        "_id": "EA-13",
+        "id_estudiante": 106,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/106/13",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-01-07"
+    },
+    {
+        "_id": "EA-14",
+        "id_estudiante": 67,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/67/14",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2026-02-02"
+    },
+    {
+        "_id": "EA-15",
+        "id_estudiante": 79,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/79/15",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2026-05-26"
+    },
+    {
+        "_id": "EA-16",
+        "id_estudiante": 131,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/131/16",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2025-02-22"
+    },
+    {
+        "_id": "EA-17",
+        "id_estudiante": 80,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/80/17",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-01-20"
+    },
+    {
+        "_id": "EA-18",
+        "id_estudiante": 195,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/195/18",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-09-18"
+    },
+    {
+        "_id": "EA-19",
+        "id_estudiante": 48,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/48/19",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-08-17"
+    },
+    {
+        "_id": "EA-20",
+        "id_estudiante": 152,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/152/20",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2026-01-24"
+    },
+    {
+        "_id": "EA-21",
+        "id_estudiante": 213,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/213/21",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-01-14"
+    },
+    {
+        "_id": "EA-22",
+        "id_estudiante": 34,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/34/22",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2026-02-10"
+    },
+    {
+        "_id": "EA-23",
+        "id_estudiante": 124,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/124/23",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-10-01"
+    },
+    {
+        "_id": "EA-24",
+        "id_estudiante": 183,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/183/24",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2026-01-30"
+    },
+    {
+        "_id": "EA-25",
+        "id_estudiante": 97,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/97/25",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-06-10"
+    },
+    {
+        "_id": "EA-26",
+        "id_estudiante": 106,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/106/26",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2026-02-03"
+    },
+    {
+        "_id": "EA-27",
+        "id_estudiante": 202,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/202/27",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2025-06-09"
+    },
+    {
+        "_id": "EA-28",
+        "id_estudiante": 42,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/42/28",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-06-23"
+    },
+    {
+        "_id": "EA-29",
+        "id_estudiante": 85,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/85/29",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-07-31"
+    },
+    {
+        "_id": "EA-30",
+        "id_estudiante": 156,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/156/30",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-10-06"
+    },
+    {
+        "_id": "EA-31",
+        "id_estudiante": 179,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/179/31",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-08-16"
+    },
+    {
+        "_id": "EA-32",
+        "id_estudiante": 108,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/108/32",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2026-04-18"
+    },
+    {
+        "_id": "EA-33",
+        "id_estudiante": 78,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/78/33",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-01-26"
+    },
+    {
+        "_id": "EA-34",
+        "id_estudiante": 1,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/1/34",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2025-02-04"
+    },
+    {
+        "_id": "EA-35",
+        "id_estudiante": 142,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/142/35",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-06-08"
+    },
+    {
+        "_id": "EA-36",
+        "id_estudiante": 36,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/36/36",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2026-03-18"
+    },
+    {
+        "_id": "EA-37",
+        "id_estudiante": 95,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/95/37",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2026-03-02"
+    },
+    {
+        "_id": "EA-38",
+        "id_estudiante": 48,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/48/38",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-02-12"
+    },
+    {
+        "_id": "EA-39",
+        "id_estudiante": 80,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/80/39",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-08-01"
+    },
+    {
+        "_id": "EA-40",
+        "id_estudiante": 180,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/180/40",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-04-02"
+    },
+    {
+        "_id": "EA-41",
+        "id_estudiante": 190,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/190/41",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-12-05"
+    },
+    {
+        "_id": "EA-42",
+        "id_estudiante": 7,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/7/42",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-11-26"
+    },
+    {
+        "_id": "EA-43",
+        "id_estudiante": 159,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/159/43",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-03-22"
+    },
+    {
+        "_id": "EA-44",
+        "id_estudiante": 37,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/37/44",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2025-08-03"
+    },
+    {
+        "_id": "EA-45",
+        "id_estudiante": 115,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/115/45",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-08-15"
+    },
+    {
+        "_id": "EA-46",
+        "id_estudiante": 42,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/42/46",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-06-07"
+    },
+    {
+        "_id": "EA-47",
+        "id_estudiante": 107,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/107/47",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-12-19"
+    },
+    {
+        "_id": "EA-48",
+        "id_estudiante": 84,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/84/48",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-07-13"
+    },
+    {
+        "_id": "EA-49",
+        "id_estudiante": 162,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/162/49",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-06-12"
+    },
+    {
+        "_id": "EA-50",
+        "id_estudiante": 203,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/203/50",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-11-01"
+    },
+    {
+        "_id": "EA-51",
+        "id_estudiante": 54,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/54/51",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2026-03-25"
+    },
+    {
+        "_id": "EA-52",
+        "id_estudiante": 83,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/83/52",
+                "calificacion": 5.0
+            }
+        ],
+        "fecha_registro": "2026-05-02"
+    },
+    {
+        "_id": "EA-53",
+        "id_estudiante": 214,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/214/53",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-06-19"
+    },
+    {
+        "_id": "EA-54",
+        "id_estudiante": 175,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/175/54",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-09-23"
+    },
+    {
+        "_id": "EA-55",
+        "id_estudiante": 93,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/93/55",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-01-24"
+    },
+    {
+        "_id": "EA-56",
+        "id_estudiante": 35,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/35/56",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-07-26"
+    },
+    {
+        "_id": "EA-57",
+        "id_estudiante": 73,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/73/57",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-07-20"
+    },
+    {
+        "_id": "EA-58",
+        "id_estudiante": 218,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/218/58",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-05-07"
+    },
+    {
+        "_id": "EA-59",
+        "id_estudiante": 149,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/149/59",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2026-03-25"
+    },
+    {
+        "_id": "EA-60",
+        "id_estudiante": 88,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/88/60",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2026-05-03"
+    },
+    {
+        "_id": "EA-61",
+        "id_estudiante": 105,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/105/61",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-01-17"
+    },
+    {
+        "_id": "EA-62",
+        "id_estudiante": 3,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/3/62",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2026-01-10"
+    },
+    {
+        "_id": "EA-63",
+        "id_estudiante": 144,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/144/63",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2026-02-13"
+    },
+    {
+        "_id": "EA-64",
+        "id_estudiante": 11,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/11/64",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-03-19"
+    },
+    {
+        "_id": "EA-65",
+        "id_estudiante": 96,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/96/65",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-12-07"
+    },
+    {
+        "_id": "EA-66",
+        "id_estudiante": 215,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/215/66",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2026-04-27"
+    },
+    {
+        "_id": "EA-67",
+        "id_estudiante": 41,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/41/67",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-09-29"
+    },
+    {
+        "_id": "EA-68",
+        "id_estudiante": 23,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/23/68",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2026-01-26"
+    },
+    {
+        "_id": "EA-69",
+        "id_estudiante": 15,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/15/69",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2025-08-28"
+    },
+    {
+        "_id": "EA-70",
+        "id_estudiante": 193,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/193/70",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2026-04-27"
+    },
+    {
+        "_id": "EA-71",
+        "id_estudiante": 44,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/44/71",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-09-07"
+    },
+    {
+        "_id": "EA-72",
+        "id_estudiante": 20,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/20/72",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-02-03"
+    },
+    {
+        "_id": "EA-73",
+        "id_estudiante": 64,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/64/73",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2025-02-21"
+    },
+    {
+        "_id": "EA-74",
+        "id_estudiante": 194,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/194/74",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2026-05-02"
+    },
+    {
+        "_id": "EA-75",
+        "id_estudiante": 147,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/147/75",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-06-24"
+    },
+    {
+        "_id": "EA-76",
+        "id_estudiante": 125,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/125/76",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-09-22"
+    },
+    {
+        "_id": "EA-77",
+        "id_estudiante": 123,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/123/77",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2025-10-29"
+    },
+    {
+        "_id": "EA-78",
+        "id_estudiante": 150,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/150/78",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-07-14"
+    },
+    {
+        "_id": "EA-79",
+        "id_estudiante": 150,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/150/79",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-06-07"
+    },
+    {
+        "_id": "EA-80",
+        "id_estudiante": 116,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/116/80",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-01-13"
+    },
+    {
+        "_id": "EA-81",
+        "id_estudiante": 154,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/154/81",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-06-17"
+    },
+    {
+        "_id": "EA-82",
+        "id_estudiante": 218,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/218/82",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-06-26"
+    },
+    {
+        "_id": "EA-83",
+        "id_estudiante": 198,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/198/83",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2025-01-03"
+    },
+    {
+        "_id": "EA-84",
+        "id_estudiante": 54,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/54/84",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-08-24"
+    },
+    {
+        "_id": "EA-85",
+        "id_estudiante": 167,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/167/85",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2026-02-17"
+    },
+    {
+        "_id": "EA-86",
+        "id_estudiante": 183,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/183/86",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-05-27"
+    },
+    {
+        "_id": "EA-87",
+        "id_estudiante": 34,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/34/87",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-11-27"
+    },
+    {
+        "_id": "EA-88",
+        "id_estudiante": 150,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/150/88",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-11-23"
+    },
+    {
+        "_id": "EA-89",
+        "id_estudiante": 112,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/112/89",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2025-02-23"
+    },
+    {
+        "_id": "EA-90",
+        "id_estudiante": 174,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/174/90",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-05-02"
+    },
+    {
+        "_id": "EA-91",
+        "id_estudiante": 40,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/40/91",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-05-08"
+    },
+    {
+        "_id": "EA-92",
+        "id_estudiante": 114,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/114/92",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2026-02-27"
+    },
+    {
+        "_id": "EA-93",
+        "id_estudiante": 27,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/27/93",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-03-22"
+    },
+    {
+        "_id": "EA-94",
+        "id_estudiante": 201,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/201/94",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2025-02-21"
+    },
+    {
+        "_id": "EA-95",
+        "id_estudiante": 13,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/13/95",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2025-08-28"
+    },
+    {
+        "_id": "EA-96",
+        "id_estudiante": 110,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/110/96",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-11-21"
+    },
+    {
+        "_id": "EA-97",
+        "id_estudiante": 52,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/52/97",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-08-10"
+    },
+    {
+        "_id": "EA-98",
+        "id_estudiante": 128,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/128/98",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2026-02-13"
+    },
+    {
+        "_id": "EA-99",
+        "id_estudiante": 207,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/207/99",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2026-03-26"
+    },
+    {
+        "_id": "EA-100",
+        "id_estudiante": 76,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/76/100",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-04-17"
+    },
+    {
+        "_id": "EA-101",
+        "id_estudiante": 31,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/31/101",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-07-03"
+    },
+    {
+        "_id": "EA-102",
+        "id_estudiante": 33,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/33/102",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2025-04-08"
+    },
+    {
+        "_id": "EA-103",
+        "id_estudiante": 216,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/216/103",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2025-05-02"
+    },
+    {
+        "_id": "EA-104",
+        "id_estudiante": 149,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/149/104",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2026-04-05"
+    },
+    {
+        "_id": "EA-105",
+        "id_estudiante": 100,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/100/105",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-10-25"
+    },
+    {
+        "_id": "EA-106",
+        "id_estudiante": 36,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/36/106",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2026-02-28"
+    },
+    {
+        "_id": "EA-107",
+        "id_estudiante": 6,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/6/107",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2025-08-09"
+    },
+    {
+        "_id": "EA-108",
+        "id_estudiante": 13,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/13/108",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2026-05-14"
+    },
+    {
+        "_id": "EA-109",
+        "id_estudiante": 42,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/42/109",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2026-03-15"
+    },
+    {
+        "_id": "EA-110",
+        "id_estudiante": 102,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/102/110",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-02-21"
+    },
+    {
+        "_id": "EA-111",
+        "id_estudiante": 55,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/55/111",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2025-09-18"
+    },
+    {
+        "_id": "EA-112",
+        "id_estudiante": 159,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/159/112",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-04-03"
+    },
+    {
+        "_id": "EA-113",
+        "id_estudiante": 17,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/17/113",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-07-04"
+    },
+    {
+        "_id": "EA-114",
+        "id_estudiante": 210,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/210/114",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-12-23"
+    },
+    {
+        "_id": "EA-115",
+        "id_estudiante": 207,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/207/115",
+                "calificacion": 5.0
+            }
+        ],
+        "fecha_registro": "2025-09-18"
+    },
+    {
+        "_id": "EA-116",
+        "id_estudiante": 220,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/220/116",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-11-09"
+    },
+    {
+        "_id": "EA-117",
+        "id_estudiante": 187,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/187/117",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2026-05-12"
+    },
+    {
+        "_id": "EA-118",
+        "id_estudiante": 197,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/197/118",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2026-02-20"
+    },
+    {
+        "_id": "EA-119",
+        "id_estudiante": 98,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/98/119",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-05-22"
+    },
+    {
+        "_id": "EA-120",
+        "id_estudiante": 23,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/23/120",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-10-03"
+    },
+    {
+        "_id": "EA-121",
+        "id_estudiante": 132,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/132/121",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-06-12"
+    },
+    {
+        "_id": "EA-122",
+        "id_estudiante": 49,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/49/122",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-12-04"
+    },
+    {
+        "_id": "EA-123",
+        "id_estudiante": 113,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/113/123",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2026-03-07"
+    },
+    {
+        "_id": "EA-124",
+        "id_estudiante": 42,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/42/124",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-05-12"
+    },
+    {
+        "_id": "EA-125",
+        "id_estudiante": 56,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/56/125",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2026-01-01"
+    },
+    {
+        "_id": "EA-126",
+        "id_estudiante": 164,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/164/126",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2026-03-20"
+    },
+    {
+        "_id": "EA-127",
+        "id_estudiante": 60,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/60/127",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-01-13"
+    },
+    {
+        "_id": "EA-128",
+        "id_estudiante": 157,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/157/128",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-05-05"
+    },
+    {
+        "_id": "EA-129",
+        "id_estudiante": 195,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/195/129",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-11-14"
+    },
+    {
+        "_id": "EA-130",
+        "id_estudiante": 187,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/187/130",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-11-06"
+    },
+    {
+        "_id": "EA-131",
+        "id_estudiante": 61,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/61/131",
+                "calificacion": 3.0
+            }
+        ],
+        "fecha_registro": "2025-11-05"
+    },
+    {
+        "_id": "EA-132",
+        "id_estudiante": 123,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/123/132",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2026-06-01"
+    },
+    {
+        "_id": "EA-133",
+        "id_estudiante": 173,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/173/133",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2026-03-31"
+    },
+    {
+        "_id": "EA-134",
+        "id_estudiante": 34,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/34/134",
+                "calificacion": 3.0
+            }
+        ],
+        "fecha_registro": "2025-03-01"
+    },
+    {
+        "_id": "EA-135",
+        "id_estudiante": 198,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/198/135",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2026-02-11"
+    },
+    {
+        "_id": "EA-136",
+        "id_estudiante": 120,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/120/136",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2025-04-17"
+    },
+    {
+        "_id": "EA-137",
+        "id_estudiante": 26,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/26/137",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-05-20"
+    },
+    {
+        "_id": "EA-138",
+        "id_estudiante": 39,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/39/138",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-04-29"
+    },
+    {
+        "_id": "EA-139",
+        "id_estudiante": 87,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/87/139",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-10-12"
+    },
+    {
+        "_id": "EA-140",
+        "id_estudiante": 84,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/84/140",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-06-23"
+    },
+    {
+        "_id": "EA-141",
+        "id_estudiante": 78,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/78/141",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-12-20"
+    },
+    {
+        "_id": "EA-142",
+        "id_estudiante": 136,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/136/142",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-02-16"
+    },
+    {
+        "_id": "EA-143",
+        "id_estudiante": 149,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/149/143",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-07-30"
+    },
+    {
+        "_id": "EA-144",
+        "id_estudiante": 83,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/83/144",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-07-17"
+    },
+    {
+        "_id": "EA-145",
+        "id_estudiante": 155,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/155/145",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2026-05-08"
+    },
+    {
+        "_id": "EA-146",
+        "id_estudiante": 157,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/157/146",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-03-04"
+    },
+    {
+        "_id": "EA-147",
+        "id_estudiante": 152,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/152/147",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-12-25"
+    },
+    {
+        "_id": "EA-148",
+        "id_estudiante": 210,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/210/148",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-09-08"
+    },
+    {
+        "_id": "EA-149",
+        "id_estudiante": 85,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/85/149",
+                "calificacion": 4.0
+            }
+        ],
+        "fecha_registro": "2026-03-05"
+    },
+    {
+        "_id": "EA-150",
+        "id_estudiante": 195,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/195/150",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-03-09"
+    },
+    {
+        "_id": "EA-151",
+        "id_estudiante": 209,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/209/151",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2026-04-09"
+    },
+    {
+        "_id": "EA-152",
+        "id_estudiante": 67,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/67/152",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-05-13"
+    },
+    {
+        "_id": "EA-153",
+        "id_estudiante": 80,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/80/153",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2026-05-18"
+    },
+    {
+        "_id": "EA-154",
+        "id_estudiante": 109,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/109/154",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2025-08-25"
+    },
+    {
+        "_id": "EA-155",
+        "id_estudiante": 200,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/200/155",
+                "calificacion": 4.3
+            }
+        ],
+        "fecha_registro": "2025-08-12"
+    },
+    {
+        "_id": "EA-156",
+        "id_estudiante": 167,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/167/156",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-05-17"
+    },
+    {
+        "_id": "EA-157",
+        "id_estudiante": 138,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/138/157",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-08-26"
+    },
+    {
+        "_id": "EA-158",
+        "id_estudiante": 179,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/179/158",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2026-05-31"
+    },
+    {
+        "_id": "EA-159",
+        "id_estudiante": 210,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/210/159",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2025-07-20"
+    },
+    {
+        "_id": "EA-160",
+        "id_estudiante": 14,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/14/160",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-12-29"
+    },
+    {
+        "_id": "EA-161",
+        "id_estudiante": 66,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/66/161",
+                "calificacion": 4.4
+            }
+        ],
+        "fecha_registro": "2026-05-15"
+    },
+    {
+        "_id": "EA-162",
+        "id_estudiante": 62,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/62/162",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2026-01-09"
+    },
+    {
+        "_id": "EA-163",
+        "id_estudiante": 106,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/106/163",
+                "calificacion": 4.9
+            }
+        ],
+        "fecha_registro": "2026-03-16"
+    },
+    {
+        "_id": "EA-164",
+        "id_estudiante": 212,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/212/164",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-05-26"
+    },
+    {
+        "_id": "EA-165",
+        "id_estudiante": 196,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/196/165",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-04-25"
+    },
+    {
+        "_id": "EA-166",
+        "id_estudiante": 36,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/36/166",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-10-18"
+    },
+    {
+        "_id": "EA-167",
+        "id_estudiante": 139,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/139/167",
+                "calificacion": 5.0
+            }
+        ],
+        "fecha_registro": "2025-10-23"
+    },
+    {
+        "_id": "EA-168",
+        "id_estudiante": 206,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/206/168",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2026-02-16"
+    },
+    {
+        "_id": "EA-169",
+        "id_estudiante": 211,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/211/169",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2025-01-06"
+    },
+    {
+        "_id": "EA-170",
+        "id_estudiante": 212,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/212/170",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-08-23"
+    },
+    {
+        "_id": "EA-171",
+        "id_estudiante": 189,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/189/171",
+                "calificacion": 3.2
+            }
+        ],
+        "fecha_registro": "2026-01-14"
+    },
+    {
+        "_id": "EA-172",
+        "id_estudiante": 96,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/96/172",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-04-22"
+    },
+    {
+        "_id": "EA-173",
+        "id_estudiante": 117,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/117/173",
+                "calificacion": 3.6
+            }
+        ],
+        "fecha_registro": "2025-04-08"
+    },
+    {
+        "_id": "EA-174",
+        "id_estudiante": 74,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/74/174",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2025-05-28"
+    },
+    {
+        "_id": "EA-175",
+        "id_estudiante": 161,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/161/175",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2026-04-14"
+    },
+    {
+        "_id": "EA-176",
+        "id_estudiante": 150,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/150/176",
+                "calificacion": 3.1
+            }
+        ],
+        "fecha_registro": "2025-12-19"
+    },
+    {
+        "_id": "EA-177",
+        "id_estudiante": 139,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/139/177",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-11-01"
+    },
+    {
+        "_id": "EA-178",
+        "id_estudiante": 167,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/167/178",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-05-27"
+    },
+    {
+        "_id": "EA-179",
+        "id_estudiante": 169,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/169/179",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2026-01-09"
+    },
+    {
+        "_id": "EA-180",
+        "id_estudiante": 196,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/196/180",
+                "calificacion": 3.3
+            }
+        ],
+        "fecha_registro": "2025-01-15"
+    },
+    {
+        "_id": "EA-181",
+        "id_estudiante": 107,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/107/181",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2026-03-15"
+    },
+    {
+        "_id": "EA-182",
+        "id_estudiante": 108,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/108/182",
+                "calificacion": 4.6
+            }
+        ],
+        "fecha_registro": "2025-12-18"
+    },
+    {
+        "_id": "EA-183",
+        "id_estudiante": 201,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/201/183",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-05-08"
+    },
+    {
+        "_id": "EA-184",
+        "id_estudiante": 77,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/77/184",
+                "calificacion": 3.9
+            }
+        ],
+        "fecha_registro": "2026-04-24"
+    },
+    {
+        "_id": "EA-185",
+        "id_estudiante": 87,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/87/185",
+                "calificacion": 4.5
+            }
+        ],
+        "fecha_registro": "2025-05-15"
+    },
+    {
+        "_id": "EA-186",
+        "id_estudiante": 146,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/146/186",
+                "calificacion": 3.8
+            }
+        ],
+        "fecha_registro": "2025-07-01"
+    },
+    {
+        "_id": "EA-187",
+        "id_estudiante": 75,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/75/187",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2026-01-11"
+    },
+    {
+        "_id": "EA-188",
+        "id_estudiante": 95,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/95/188",
+                "calificacion": 4.1
+            }
+        ],
+        "fecha_registro": "2025-10-09"
+    },
+    {
+        "_id": "EA-189",
+        "id_estudiante": 152,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/152/189",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-05-22"
+    },
+    {
+        "_id": "EA-190",
+        "id_estudiante": 7,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/7/190",
+                "calificacion": 5.0
+            }
+        ],
+        "fecha_registro": "2025-01-13"
+    },
+    {
+        "_id": "EA-191",
+        "id_estudiante": 95,
+        "curso": "Ingeniería de Software",
+        "evidencias": [
+            {
+                "tipo": "repositorio_codigo",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/95/191",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-06-21"
+    },
+    {
+        "_id": "EA-192",
+        "id_estudiante": 82,
+        "curso": "Bases de Datos II",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Ingeniería de Software",
+                "url": "https://repositorio.edu/evidencia/82/192",
+                "calificacion": 3.7
+            }
+        ],
+        "fecha_registro": "2025-05-24"
+    },
+    {
+        "_id": "EA-193",
+        "id_estudiante": 102,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/102/193",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2026-04-21"
+    },
+    {
+        "_id": "EA-194",
+        "id_estudiante": 98,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "proyecto",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/98/194",
+                "calificacion": 4.2
+            }
+        ],
+        "fecha_registro": "2025-08-14"
+    },
+    {
+        "_id": "EA-195",
+        "id_estudiante": 82,
+        "curso": "Matemática Discreta",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/82/195",
+                "calificacion": 3.4
+            }
+        ],
+        "fecha_registro": "2025-06-26"
+    },
+    {
+        "_id": "EA-196",
+        "id_estudiante": 176,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/176/196",
+                "calificacion": 5.0
+            }
+        ],
+        "fecha_registro": "2026-04-25"
+    },
+    {
+        "_id": "EA-197",
+        "id_estudiante": 32,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Matemática Discreta",
+                "url": "https://repositorio.edu/evidencia/32/197",
+                "calificacion": 3.0
+            }
+        ],
+        "fecha_registro": "2025-11-17"
+    },
+    {
+        "_id": "EA-198",
+        "id_estudiante": 32,
+        "curso": "Sistemas Operativos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Estructuras de Datos",
+                "url": "https://repositorio.edu/evidencia/32/198",
+                "calificacion": 4.8
+            }
+        ],
+        "fecha_registro": "2025-08-03"
+    },
+    {
+        "_id": "EA-199",
+        "id_estudiante": 73,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "presentacion",
+                "titulo": "Trabajo final de Sistemas Operativos",
+                "url": "https://repositorio.edu/evidencia/73/199",
+                "calificacion": 4.7
+            }
+        ],
+        "fecha_registro": "2025-07-02"
+    },
+    {
+        "_id": "EA-200",
+        "id_estudiante": 121,
+        "curso": "Estructuras de Datos",
+        "evidencias": [
+            {
+                "tipo": "ensayo",
+                "titulo": "Trabajo final de Bases de Datos II",
+                "url": "https://repositorio.edu/evidencia/121/200",
+                "calificacion": 3.5
+            }
+        ],
+        "fecha_registro": "2025-02-08"
+    }
+]

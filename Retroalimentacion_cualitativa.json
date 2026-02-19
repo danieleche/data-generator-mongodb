@@ -1,0 +1,3399 @@
+[
+    {
+        "_id": "RC-1",
+        "id_estudiante": 90,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-21"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-2",
+        "id_estudiante": 183,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-22"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-3",
+        "id_estudiante": 55,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-17"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-4",
+        "id_estudiante": 216,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-15"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-5",
+        "id_estudiante": 133,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-27"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-6",
+        "id_estudiante": 27,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-27"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rezago",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-7",
+        "id_estudiante": 209,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-13"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-8",
+        "id_estudiante": 20,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-04-08"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-9",
+        "id_estudiante": 132,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-09"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-10",
+        "id_estudiante": 111,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-11"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-11",
+        "id_estudiante": 167,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-28"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-12",
+        "id_estudiante": 194,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-13"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-13",
+        "id_estudiante": 106,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-21"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-14",
+        "id_estudiante": 67,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-24"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-15",
+        "id_estudiante": 79,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-15"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rezago",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-16",
+        "id_estudiante": 131,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-30"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-17",
+        "id_estudiante": 80,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-19"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-18",
+        "id_estudiante": 195,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-03"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-19",
+        "id_estudiante": 48,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-28"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-20",
+        "id_estudiante": 152,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-04"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rezago",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-21",
+        "id_estudiante": 213,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-27"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-22",
+        "id_estudiante": 34,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-06"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-23",
+        "id_estudiante": 124,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-26"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-24",
+        "id_estudiante": 183,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-03"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-25",
+        "id_estudiante": 97,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-23"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-26",
+        "id_estudiante": 106,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-30"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-27",
+        "id_estudiante": 202,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-07"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-28",
+        "id_estudiante": 42,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-06"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-29",
+        "id_estudiante": 85,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-01"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "riesgo de abandono",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-30",
+        "id_estudiante": 156,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-10"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-31",
+        "id_estudiante": 179,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-04"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-32",
+        "id_estudiante": 108,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-18"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-33",
+        "id_estudiante": 78,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-26"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-34",
+        "id_estudiante": 1,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-21"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-35",
+        "id_estudiante": 142,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-17"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-36",
+        "id_estudiante": 36,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-03"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-37",
+        "id_estudiante": 95,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-25"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-38",
+        "id_estudiante": 48,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-20"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-39",
+        "id_estudiante": 80,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-06"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-40",
+        "id_estudiante": 180,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-26"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-41",
+        "id_estudiante": 190,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-16"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-42",
+        "id_estudiante": 7,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-19"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-43",
+        "id_estudiante": 159,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-23"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-44",
+        "id_estudiante": 37,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-22"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "riesgo de abandono",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-45",
+        "id_estudiante": 115,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-23"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-46",
+        "id_estudiante": 42,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-19"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-47",
+        "id_estudiante": 107,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-17"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-48",
+        "id_estudiante": 84,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-28"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-49",
+        "id_estudiante": 162,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-27"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-50",
+        "id_estudiante": 203,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-27"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-51",
+        "id_estudiante": 54,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-01"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-52",
+        "id_estudiante": 83,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-26"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-53",
+        "id_estudiante": 214,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-13"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-54",
+        "id_estudiante": 175,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-25"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-55",
+        "id_estudiante": 93,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-30"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-56",
+        "id_estudiante": 35,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-29"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-57",
+        "id_estudiante": 73,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-27"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-58",
+        "id_estudiante": 218,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-28"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-59",
+        "id_estudiante": 149,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-04"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-60",
+        "id_estudiante": 88,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-30"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-61",
+        "id_estudiante": 105,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-15"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-62",
+        "id_estudiante": 3,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-04"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-63",
+        "id_estudiante": 144,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-05"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-64",
+        "id_estudiante": 11,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-10"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-65",
+        "id_estudiante": 96,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-28"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-66",
+        "id_estudiante": 215,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-27"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-67",
+        "id_estudiante": 41,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-03"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-68",
+        "id_estudiante": 23,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-07"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-69",
+        "id_estudiante": 15,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-29"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-70",
+        "id_estudiante": 193,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-20"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-71",
+        "id_estudiante": 44,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-30"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-72",
+        "id_estudiante": 20,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-03"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-73",
+        "id_estudiante": 64,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-17"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-74",
+        "id_estudiante": 194,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-31"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-75",
+        "id_estudiante": 147,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-18"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-76",
+        "id_estudiante": 125,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-23"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-77",
+        "id_estudiante": 123,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-09"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-78",
+        "id_estudiante": 150,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-03"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-79",
+        "id_estudiante": 150,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-08"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-80",
+        "id_estudiante": 116,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-22"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-81",
+        "id_estudiante": 154,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-10"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-82",
+        "id_estudiante": 218,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-11"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-83",
+        "id_estudiante": 198,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-10"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-84",
+        "id_estudiante": 54,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-23"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-85",
+        "id_estudiante": 167,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-06"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-86",
+        "id_estudiante": 183,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-05"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-87",
+        "id_estudiante": 34,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-12"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-88",
+        "id_estudiante": 150,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-21"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-89",
+        "id_estudiante": 112,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-03"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-90",
+        "id_estudiante": 174,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-14"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-91",
+        "id_estudiante": 40,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-01"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-92",
+        "id_estudiante": 114,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-03"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-93",
+        "id_estudiante": 27,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-12"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "riesgo de abandono",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-94",
+        "id_estudiante": 201,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-04"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-95",
+        "id_estudiante": 13,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-30"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-96",
+        "id_estudiante": 110,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-25"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-97",
+        "id_estudiante": 52,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-25"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-98",
+        "id_estudiante": 128,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-26"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-99",
+        "id_estudiante": 207,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-26"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-100",
+        "id_estudiante": 76,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-04"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-101",
+        "id_estudiante": 31,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-25"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-102",
+        "id_estudiante": 33,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-28"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-103",
+        "id_estudiante": 216,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-06-01"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-104",
+        "id_estudiante": 149,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-03"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-105",
+        "id_estudiante": 100,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-02"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-106",
+        "id_estudiante": 36,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-18"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-107",
+        "id_estudiante": 6,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-11"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-108",
+        "id_estudiante": 13,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-29"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-109",
+        "id_estudiante": 42,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-14"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-110",
+        "id_estudiante": 102,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-22"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-111",
+        "id_estudiante": 55,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-13"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-112",
+        "id_estudiante": 159,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-13"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-113",
+        "id_estudiante": 17,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-15"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-114",
+        "id_estudiante": 210,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-15"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-115",
+        "id_estudiante": 207,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-17"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-116",
+        "id_estudiante": 220,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-23"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-117",
+        "id_estudiante": 187,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-17"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-118",
+        "id_estudiante": 197,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-04-07"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-119",
+        "id_estudiante": 98,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-13"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-120",
+        "id_estudiante": 23,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-14"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "excelencia",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-121",
+        "id_estudiante": 132,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-14"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-122",
+        "id_estudiante": 49,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-29"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-123",
+        "id_estudiante": 113,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-10"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-124",
+        "id_estudiante": 42,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-18"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-125",
+        "id_estudiante": 56,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-09"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-126",
+        "id_estudiante": 164,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-17"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-127",
+        "id_estudiante": 60,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-29"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-128",
+        "id_estudiante": 157,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-17"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-129",
+        "id_estudiante": 195,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-31"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-130",
+        "id_estudiante": 187,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-01"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-131",
+        "id_estudiante": 61,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-02"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "participación",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-132",
+        "id_estudiante": 123,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-06"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-133",
+        "id_estudiante": 173,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-12"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-134",
+        "id_estudiante": 34,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-25"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-135",
+        "id_estudiante": 198,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-24"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-136",
+        "id_estudiante": 120,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-20"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "excelencia",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-137",
+        "id_estudiante": 26,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-18"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-138",
+        "id_estudiante": 39,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-19"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "riesgo de abandono",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-139",
+        "id_estudiante": 87,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-06"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-140",
+        "id_estudiante": 84,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-14"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-141",
+        "id_estudiante": 78,
+        "curso": "Estructuras de Datos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-15"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-142",
+        "id_estudiante": 136,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-10"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-143",
+        "id_estudiante": 149,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-03"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-144",
+        "id_estudiante": 83,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-23"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-145",
+        "id_estudiante": 155,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-09"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-146",
+        "id_estudiante": 157,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-04-07"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-147",
+        "id_estudiante": 152,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-01"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-148",
+        "id_estudiante": 210,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-15"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-149",
+        "id_estudiante": 85,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-01"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-150",
+        "id_estudiante": 195,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-29"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-151",
+        "id_estudiante": 209,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-03"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-152",
+        "id_estudiante": 67,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-17"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-153",
+        "id_estudiante": 80,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-15"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-154",
+        "id_estudiante": 109,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-16"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-155",
+        "id_estudiante": 200,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-31"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-156",
+        "id_estudiante": 167,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-18"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "rezago",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-157",
+        "id_estudiante": 138,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-14"
+            }
+        ],
+        "etiquetas": [
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-158",
+        "id_estudiante": 179,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-31"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-159",
+        "id_estudiante": 210,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-28"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-160",
+        "id_estudiante": 14,
+        "curso": "Estructuras de Datos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-01-26"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-161",
+        "id_estudiante": 66,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-05"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-162",
+        "id_estudiante": 62,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-23"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-163",
+        "id_estudiante": 106,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-09"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-164",
+        "id_estudiante": 212,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-02-01"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-165",
+        "id_estudiante": 196,
+        "curso": "Matemática Discreta",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-05-21"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-166",
+        "id_estudiante": 36,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-04"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-167",
+        "id_estudiante": 139,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-04"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-168",
+        "id_estudiante": 206,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-10"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-169",
+        "id_estudiante": 211,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-09"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-170",
+        "id_estudiante": 212,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-07-02"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-171",
+        "id_estudiante": 189,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-28"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-172",
+        "id_estudiante": 96,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-02"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-173",
+        "id_estudiante": 117,
+        "curso": "Ingeniería de Software",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-07"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-174",
+        "id_estudiante": 74,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-12-13"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-175",
+        "id_estudiante": 161,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-22"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-176",
+        "id_estudiante": 150,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-07"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-177",
+        "id_estudiante": 139,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-08-13"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-178",
+        "id_estudiante": 167,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-14"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-179",
+        "id_estudiante": 169,
+        "curso": "Bases de Datos II",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-10"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-180",
+        "id_estudiante": 196,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-12"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-181",
+        "id_estudiante": 107,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-09-17"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-182",
+        "id_estudiante": 108,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-11"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-183",
+        "id_estudiante": 201,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-23"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-184",
+        "id_estudiante": 77,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Ing. Rodríguez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-01-13"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "riesgo de abandono",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-185",
+        "id_estudiante": 87,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-01"
+            }
+        ],
+        "etiquetas": [
+            "participación",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-186",
+        "id_estudiante": 146,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-04-15"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rendimiento alto",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-187",
+        "id_estudiante": 75,
+        "curso": "Ingeniería de Software",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-05"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-188",
+        "id_estudiante": 95,
+        "curso": "Estructuras de Datos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-17"
+            }
+        ],
+        "etiquetas": [
+            "excelencia"
+        ]
+    },
+    {
+        "_id": "RC-189",
+        "id_estudiante": 152,
+        "curso": "Sistemas Operativos",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-11-26"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-190",
+        "id_estudiante": 7,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-05-23"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rendimiento alto",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-191",
+        "id_estudiante": 95,
+        "curso": "Bases de Datos II",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-29"
+            }
+        ],
+        "etiquetas": [
+            "excelencia",
+            "rezago",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-192",
+        "id_estudiante": 82,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-11"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "participación",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-193",
+        "id_estudiante": 102,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-12"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-194",
+        "id_estudiante": 98,
+        "curso": "Sistemas Operativos",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-06-07"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "riesgo de abandono",
+            "mejora continua"
+        ]
+    },
+    {
+        "_id": "RC-195",
+        "id_estudiante": 82,
+        "curso": "Sistemas Operativos",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-04-05"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "riesgo de abandono"
+        ]
+    },
+    {
+        "_id": "RC-196",
+        "id_estudiante": 176,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-02-25"
+            }
+        ],
+        "etiquetas": [
+            "rendimiento alto",
+            "participación"
+        ]
+    },
+    {
+        "_id": "RC-197",
+        "id_estudiante": 32,
+        "curso": "Bases de Datos II",
+        "tipo": "compañero",
+        "comentarios": [
+            {
+                "autor": "Prof. Gómez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-25"
+            }
+        ],
+        "etiquetas": [
+            "riesgo de abandono",
+            "excelencia",
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-198",
+        "id_estudiante": 32,
+        "curso": "Ingeniería de Software",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dra. Pérez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-10-22"
+            }
+        ],
+        "etiquetas": [
+            "rezago"
+        ]
+    },
+    {
+        "_id": "RC-199",
+        "id_estudiante": 73,
+        "curso": "Matemática Discreta",
+        "tipo": "docente",
+        "comentarios": [
+            {
+                "autor": "Dr. Fernández",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2026-03-31"
+            }
+        ],
+        "etiquetas": [
+            "mejora continua",
+            "rendimiento alto"
+        ]
+    },
+    {
+        "_id": "RC-200",
+        "id_estudiante": 121,
+        "curso": "Matemática Discreta",
+        "tipo": "autoevaluación",
+        "comentarios": [
+            {
+                "autor": "Lic. Martínez",
+                "mensaje": "Gran aporte durante las sesiones prácticas.",
+                "fecha": "2025-03-25"
+            }
+        ],
+        "etiquetas": [
+            "rezago",
+            "mejora continua",
+            "excelencia"
+        ]
+    }
+]

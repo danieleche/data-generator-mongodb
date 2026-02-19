@@ -1,0 +1,2602 @@
+[
+    {
+        "_id": "HI-1",
+        "id_estudiante": 90,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2025-06-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-2",
+        "id_estudiante": 183,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-12-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-3",
+        "id_estudiante": 55,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-05-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-4",
+        "id_estudiante": 216,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-5",
+        "id_estudiante": 133,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2026-03-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-6",
+        "id_estudiante": 27,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-02-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-7",
+        "id_estudiante": 209,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-8",
+        "id_estudiante": 20,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-08-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-9",
+        "id_estudiante": 132,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-06-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-10",
+        "id_estudiante": 111,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-11",
+        "id_estudiante": 167,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-06-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-12",
+        "id_estudiante": 194,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-12-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-13",
+        "id_estudiante": 106,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-14",
+        "id_estudiante": 67,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-06-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-15",
+        "id_estudiante": 79,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-04-12"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-16",
+        "id_estudiante": 131,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2026-01-07"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-17",
+        "id_estudiante": 80,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-03-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-18",
+        "id_estudiante": 195,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-19",
+        "id_estudiante": 48,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-03-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-20",
+        "id_estudiante": 152,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-21",
+        "id_estudiante": 213,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-09-18"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-22",
+        "id_estudiante": 34,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-03-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-23",
+        "id_estudiante": 124,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-06-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-24",
+        "id_estudiante": 183,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-10-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-25",
+        "id_estudiante": 97,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-26",
+        "id_estudiante": 106,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-27",
+        "id_estudiante": 202,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-04-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-28",
+        "id_estudiante": 42,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-29",
+        "id_estudiante": 85,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2025-10-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-30",
+        "id_estudiante": 156,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2026-03-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-31",
+        "id_estudiante": 179,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2026-03-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-32",
+        "id_estudiante": 108,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-06-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-33",
+        "id_estudiante": 78,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-10-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-34",
+        "id_estudiante": 1,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-03-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-35",
+        "id_estudiante": 142,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-36",
+        "id_estudiante": 36,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-04-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-37",
+        "id_estudiante": 95,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-38",
+        "id_estudiante": 48,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-03-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-39",
+        "id_estudiante": 80,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-01-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-40",
+        "id_estudiante": 180,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-41",
+        "id_estudiante": 190,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-04-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-42",
+        "id_estudiante": 7,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2025-12-31"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-43",
+        "id_estudiante": 159,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-04-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-44",
+        "id_estudiante": 37,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2026-05-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-45",
+        "id_estudiante": 115,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2026-03-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-46",
+        "id_estudiante": 42,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2026-01-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-47",
+        "id_estudiante": 107,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-09-19"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-48",
+        "id_estudiante": 84,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-03-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-49",
+        "id_estudiante": 162,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2025-08-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-50",
+        "id_estudiante": 203,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2026-03-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-51",
+        "id_estudiante": 54,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-11"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-52",
+        "id_estudiante": 83,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-01-27"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-53",
+        "id_estudiante": 214,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-05-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-54",
+        "id_estudiante": 175,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-12-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-55",
+        "id_estudiante": 93,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-08-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-56",
+        "id_estudiante": 35,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-57",
+        "id_estudiante": 73,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-58",
+        "id_estudiante": 218,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-06-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-59",
+        "id_estudiante": 149,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-08-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-60",
+        "id_estudiante": 88,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-61",
+        "id_estudiante": 105,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-08-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-62",
+        "id_estudiante": 3,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2025-05-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-63",
+        "id_estudiante": 144,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-64",
+        "id_estudiante": 11,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-08-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-65",
+        "id_estudiante": 96,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-11"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-66",
+        "id_estudiante": 215,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-05-07"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-67",
+        "id_estudiante": 41,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-04-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-68",
+        "id_estudiante": 23,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2026-02-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-69",
+        "id_estudiante": 15,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-02-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-70",
+        "id_estudiante": 193,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2025-06-12"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-71",
+        "id_estudiante": 44,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-08-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-72",
+        "id_estudiante": 20,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-03-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-73",
+        "id_estudiante": 64,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-31"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-74",
+        "id_estudiante": 194,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-01-31"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-75",
+        "id_estudiante": 147,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-11-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-76",
+        "id_estudiante": 125,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-06-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-77",
+        "id_estudiante": 123,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2026-03-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-78",
+        "id_estudiante": 150,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-01-09"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-79",
+        "id_estudiante": 150,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-80",
+        "id_estudiante": 116,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-81",
+        "id_estudiante": 154,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2026-01-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-82",
+        "id_estudiante": 218,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-05-09"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-83",
+        "id_estudiante": 198,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-08-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-84",
+        "id_estudiante": 54,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-05-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-85",
+        "id_estudiante": 167,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-04-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-86",
+        "id_estudiante": 183,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-02-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-87",
+        "id_estudiante": 34,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-88",
+        "id_estudiante": 150,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-02-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-89",
+        "id_estudiante": 112,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-03-31"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-90",
+        "id_estudiante": 174,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-11-15"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-91",
+        "id_estudiante": 40,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-02-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-92",
+        "id_estudiante": 114,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-06-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-93",
+        "id_estudiante": 27,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2026-03-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-94",
+        "id_estudiante": 201,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-04-14"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-95",
+        "id_estudiante": 13,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-01-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-96",
+        "id_estudiante": 110,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2026-03-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-97",
+        "id_estudiante": 52,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-01-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-98",
+        "id_estudiante": 128,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-02-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-99",
+        "id_estudiante": 207,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2025-03-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-100",
+        "id_estudiante": 76,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-02-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-101",
+        "id_estudiante": 31,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-05-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-102",
+        "id_estudiante": 33,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-103",
+        "id_estudiante": 216,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2026-05-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-104",
+        "id_estudiante": 149,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-01-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-105",
+        "id_estudiante": 100,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-11-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-106",
+        "id_estudiante": 36,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-11-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-107",
+        "id_estudiante": 6,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-04-18"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-108",
+        "id_estudiante": 13,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-10-19"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-109",
+        "id_estudiante": 42,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-05-27"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-110",
+        "id_estudiante": 102,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-06-09"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-111",
+        "id_estudiante": 55,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-06-08"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-112",
+        "id_estudiante": 159,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-06-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-113",
+        "id_estudiante": 17,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-12-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-114",
+        "id_estudiante": 210,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-115",
+        "id_estudiante": 207,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-02-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-116",
+        "id_estudiante": 220,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-01-14"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-117",
+        "id_estudiante": 187,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2026-05-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-118",
+        "id_estudiante": 197,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-08-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-119",
+        "id_estudiante": 98,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-01-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-120",
+        "id_estudiante": 23,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-121",
+        "id_estudiante": 132,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-122",
+        "id_estudiante": 49,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-123",
+        "id_estudiante": 113,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-05-19"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-124",
+        "id_estudiante": 42,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-02-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-125",
+        "id_estudiante": 56,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-03-03"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-126",
+        "id_estudiante": 164,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-01-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-127",
+        "id_estudiante": 60,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-02-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-128",
+        "id_estudiante": 157,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-02-27"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-129",
+        "id_estudiante": 195,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2026-05-28"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-130",
+        "id_estudiante": 187,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-08-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-131",
+        "id_estudiante": 61,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-132",
+        "id_estudiante": 123,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-11-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-133",
+        "id_estudiante": 173,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-134",
+        "id_estudiante": 34,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2026-01-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-135",
+        "id_estudiante": 198,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2026-01-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-136",
+        "id_estudiante": 120,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-09-18"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-137",
+        "id_estudiante": 26,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-12-01"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-138",
+        "id_estudiante": 39,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-07-14"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-139",
+        "id_estudiante": 87,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-02-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-140",
+        "id_estudiante": 84,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-141",
+        "id_estudiante": 78,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-30"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-142",
+        "id_estudiante": 136,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-09-02"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-143",
+        "id_estudiante": 149,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-01-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-144",
+        "id_estudiante": 83,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-03-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-145",
+        "id_estudiante": 155,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-04-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-146",
+        "id_estudiante": 157,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2026-05-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-147",
+        "id_estudiante": 152,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-04-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-148",
+        "id_estudiante": 210,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-10-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-149",
+        "id_estudiante": 85,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-07-25"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-150",
+        "id_estudiante": 195,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-11-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-151",
+        "id_estudiante": 209,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-06-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-152",
+        "id_estudiante": 67,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-10-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-153",
+        "id_estudiante": 80,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-01-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-154",
+        "id_estudiante": 109,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-155",
+        "id_estudiante": 200,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-10-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-156",
+        "id_estudiante": 167,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-08-26"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-157",
+        "id_estudiante": 138,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-05-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-158",
+        "id_estudiante": 179,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-159",
+        "id_estudiante": 210,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2025-08-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-160",
+        "id_estudiante": 14,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-11-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-161",
+        "id_estudiante": 66,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-13"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-162",
+        "id_estudiante": 62,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-08-31"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-163",
+        "id_estudiante": 106,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-07-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-164",
+        "id_estudiante": 212,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-02-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-165",
+        "id_estudiante": 196,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-07-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-166",
+        "id_estudiante": 36,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-01-08"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-167",
+        "id_estudiante": 139,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-02-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-168",
+        "id_estudiante": 206,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-12-08"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-169",
+        "id_estudiante": 211,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-05-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-170",
+        "id_estudiante": 212,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "sin cambios",
+                "fecha": "2025-11-07"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-171",
+        "id_estudiante": 189,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-05-29"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-172",
+        "id_estudiante": 96,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2026-02-08"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-173",
+        "id_estudiante": 117,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2026-01-07"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-174",
+        "id_estudiante": 74,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "riesgo académico",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-05-19"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-175",
+        "id_estudiante": 161,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "en proceso",
+                "fecha": "2025-03-07"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-176",
+        "id_estudiante": 150,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-08-16"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-177",
+        "id_estudiante": 139,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-10-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-178",
+        "id_estudiante": 167,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-06-23"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-179",
+        "id_estudiante": 169,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "riesgo académico",
+                "resultado": "excelente avance",
+                "fecha": "2025-07-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-180",
+        "id_estudiante": 196,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2025-04-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-181",
+        "id_estudiante": 107,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-01-17"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-182",
+        "id_estudiante": 108,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-12-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-183",
+        "id_estudiante": 201,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-07-11"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-184",
+        "id_estudiante": 77,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-10-12"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-185",
+        "id_estudiante": 87,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-10-11"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-186",
+        "id_estudiante": 146,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-02-01"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-187",
+        "id_estudiante": 75,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "problemas de conducta",
+                "resultado": "excelente avance",
+                "fecha": "2026-04-06"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-188",
+        "id_estudiante": 95,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-01-18"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-189",
+        "id_estudiante": 152,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-08-22"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-190",
+        "id_estudiante": 7,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "mejora sostenida",
+                "fecha": "2026-04-12"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-191",
+        "id_estudiante": 95,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "problemas de conducta",
+                "resultado": "en proceso",
+                "fecha": "2025-06-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-192",
+        "id_estudiante": 82,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "riesgo académico",
+                "resultado": "sin cambios",
+                "fecha": "2025-01-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-193",
+        "id_estudiante": 102,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "problemas de conducta",
+                "resultado": "sin cambios",
+                "fecha": "2025-05-08"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-194",
+        "id_estudiante": 98,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2026-04-04"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-195",
+        "id_estudiante": 82,
+        "intervenciones": [
+            {
+                "tipo": "asesoría psicológica",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2026-01-10"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-196",
+        "id_estudiante": 176,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "sin cambios",
+                "fecha": "2025-10-21"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-197",
+        "id_estudiante": 32,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "solicitud propia",
+                "resultado": "en proceso",
+                "fecha": "2025-05-24"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-198",
+        "id_estudiante": 32,
+        "intervenciones": [
+            {
+                "tipo": "plan de nivelación",
+                "motivo": "inasistencias",
+                "resultado": "en proceso",
+                "fecha": "2025-09-14"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-199",
+        "id_estudiante": 73,
+        "intervenciones": [
+            {
+                "tipo": "tutoría",
+                "motivo": "solicitud propia",
+                "resultado": "mejora sostenida",
+                "fecha": "2025-04-05"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    },
+    {
+        "_id": "HI-200",
+        "id_estudiante": 121,
+        "intervenciones": [
+            {
+                "tipo": "citación representante",
+                "motivo": "inasistencias",
+                "resultado": "excelente avance",
+                "fecha": "2025-03-20"
+            }
+        ],
+        "responsable": "Coordinación académica"
+    }
+]

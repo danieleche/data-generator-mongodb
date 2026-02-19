@@ -1,0 +1,3001 @@
+[
+    {
+        "_id": "PA-1",
+        "id_estudiante": 90,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-09-28"
+    },
+    {
+        "_id": "PA-2",
+        "id_estudiante": 183,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "proactividad",
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-02-10"
+    },
+    {
+        "_id": "PA-3",
+        "id_estudiante": 55,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación",
+            "pensamiento crítico",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-11-06"
+    },
+    {
+        "_id": "PA-4",
+        "id_estudiante": 216,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-05-30"
+    },
+    {
+        "_id": "PA-5",
+        "id_estudiante": 133,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-02-04"
+    },
+    {
+        "_id": "PA-6",
+        "id_estudiante": 27,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-01-05"
+    },
+    {
+        "_id": "PA-7",
+        "id_estudiante": 209,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-03-15"
+    },
+    {
+        "_id": "PA-8",
+        "id_estudiante": 20,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-01-29"
+    },
+    {
+        "_id": "PA-9",
+        "id_estudiante": 132,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-10-21"
+    },
+    {
+        "_id": "PA-10",
+        "id_estudiante": 111,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-15"
+    },
+    {
+        "_id": "PA-11",
+        "id_estudiante": 167,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-08-24"
+    },
+    {
+        "_id": "PA-12",
+        "id_estudiante": 194,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-06-16"
+    },
+    {
+        "_id": "PA-13",
+        "id_estudiante": 106,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-09-23"
+    },
+    {
+        "_id": "PA-14",
+        "id_estudiante": 67,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-11"
+    },
+    {
+        "_id": "PA-15",
+        "id_estudiante": 79,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-10-10"
+    },
+    {
+        "_id": "PA-16",
+        "id_estudiante": 131,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-11-08"
+    },
+    {
+        "_id": "PA-17",
+        "id_estudiante": 80,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-16"
+    },
+    {
+        "_id": "PA-18",
+        "id_estudiante": 195,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-08"
+    },
+    {
+        "_id": "PA-19",
+        "id_estudiante": 48,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-11-04"
+    },
+    {
+        "_id": "PA-20",
+        "id_estudiante": 152,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-08-21"
+    },
+    {
+        "_id": "PA-21",
+        "id_estudiante": 213,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-04-12"
+    },
+    {
+        "_id": "PA-22",
+        "id_estudiante": 34,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-04-07"
+    },
+    {
+        "_id": "PA-23",
+        "id_estudiante": 124,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-03-26"
+    },
+    {
+        "_id": "PA-24",
+        "id_estudiante": 183,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-05-07"
+    },
+    {
+        "_id": "PA-25",
+        "id_estudiante": 97,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-10"
+    },
+    {
+        "_id": "PA-26",
+        "id_estudiante": 106,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-09-08"
+    },
+    {
+        "_id": "PA-27",
+        "id_estudiante": 202,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-10"
+    },
+    {
+        "_id": "PA-28",
+        "id_estudiante": 42,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-06-18"
+    },
+    {
+        "_id": "PA-29",
+        "id_estudiante": 85,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-15"
+    },
+    {
+        "_id": "PA-30",
+        "id_estudiante": 156,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-04-12"
+    },
+    {
+        "_id": "PA-31",
+        "id_estudiante": 179,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-01-05"
+    },
+    {
+        "_id": "PA-32",
+        "id_estudiante": 108,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-04"
+    },
+    {
+        "_id": "PA-33",
+        "id_estudiante": 78,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-06-27"
+    },
+    {
+        "_id": "PA-34",
+        "id_estudiante": 1,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-06-08"
+    },
+    {
+        "_id": "PA-35",
+        "id_estudiante": 142,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-05-21"
+    },
+    {
+        "_id": "PA-36",
+        "id_estudiante": 36,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-06-22"
+    },
+    {
+        "_id": "PA-37",
+        "id_estudiante": 95,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-03-11"
+    },
+    {
+        "_id": "PA-38",
+        "id_estudiante": 48,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-01-14"
+    },
+    {
+        "_id": "PA-39",
+        "id_estudiante": 80,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "comunicación",
+            "proactividad",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-08-31"
+    },
+    {
+        "_id": "PA-40",
+        "id_estudiante": 180,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-11-03"
+    },
+    {
+        "_id": "PA-41",
+        "id_estudiante": 190,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "comunicación",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-06-09"
+    },
+    {
+        "_id": "PA-42",
+        "id_estudiante": 7,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-11-10"
+    },
+    {
+        "_id": "PA-43",
+        "id_estudiante": 159,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-01-31"
+    },
+    {
+        "_id": "PA-44",
+        "id_estudiante": 37,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-04-08"
+    },
+    {
+        "_id": "PA-45",
+        "id_estudiante": 115,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-05-25"
+    },
+    {
+        "_id": "PA-46",
+        "id_estudiante": 42,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-02-24"
+    },
+    {
+        "_id": "PA-47",
+        "id_estudiante": 107,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-05-05"
+    },
+    {
+        "_id": "PA-48",
+        "id_estudiante": 84,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-07-26"
+    },
+    {
+        "_id": "PA-49",
+        "id_estudiante": 162,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-04-21"
+    },
+    {
+        "_id": "PA-50",
+        "id_estudiante": 203,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-04-21"
+    },
+    {
+        "_id": "PA-51",
+        "id_estudiante": 54,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-11-07"
+    },
+    {
+        "_id": "PA-52",
+        "id_estudiante": 83,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-01-27"
+    },
+    {
+        "_id": "PA-53",
+        "id_estudiante": 214,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-01-07"
+    },
+    {
+        "_id": "PA-54",
+        "id_estudiante": 175,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-11-27"
+    },
+    {
+        "_id": "PA-55",
+        "id_estudiante": 93,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-01-16"
+    },
+    {
+        "_id": "PA-56",
+        "id_estudiante": 35,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-07-17"
+    },
+    {
+        "_id": "PA-57",
+        "id_estudiante": 73,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-07"
+    },
+    {
+        "_id": "PA-58",
+        "id_estudiante": 218,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-09-04"
+    },
+    {
+        "_id": "PA-59",
+        "id_estudiante": 149,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-03-11"
+    },
+    {
+        "_id": "PA-60",
+        "id_estudiante": 88,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "proactividad",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-10-15"
+    },
+    {
+        "_id": "PA-61",
+        "id_estudiante": 105,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-22"
+    },
+    {
+        "_id": "PA-62",
+        "id_estudiante": 3,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-08-30"
+    },
+    {
+        "_id": "PA-63",
+        "id_estudiante": 144,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-05-12"
+    },
+    {
+        "_id": "PA-64",
+        "id_estudiante": 11,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "liderazgo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-03-10"
+    },
+    {
+        "_id": "PA-65",
+        "id_estudiante": 96,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-04-06"
+    },
+    {
+        "_id": "PA-66",
+        "id_estudiante": 215,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-01-22"
+    },
+    {
+        "_id": "PA-67",
+        "id_estudiante": 41,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-02-08"
+    },
+    {
+        "_id": "PA-68",
+        "id_estudiante": 23,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-10"
+    },
+    {
+        "_id": "PA-69",
+        "id_estudiante": 15,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-04-06"
+    },
+    {
+        "_id": "PA-70",
+        "id_estudiante": 193,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-08-01"
+    },
+    {
+        "_id": "PA-71",
+        "id_estudiante": 44,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-30"
+    },
+    {
+        "_id": "PA-72",
+        "id_estudiante": 20,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-05-01"
+    },
+    {
+        "_id": "PA-73",
+        "id_estudiante": 64,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-02-16"
+    },
+    {
+        "_id": "PA-74",
+        "id_estudiante": 194,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-05-02"
+    },
+    {
+        "_id": "PA-75",
+        "id_estudiante": 147,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-02-02"
+    },
+    {
+        "_id": "PA-76",
+        "id_estudiante": 125,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-05-22"
+    },
+    {
+        "_id": "PA-77",
+        "id_estudiante": 123,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-06-26"
+    },
+    {
+        "_id": "PA-78",
+        "id_estudiante": 150,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-04-12"
+    },
+    {
+        "_id": "PA-79",
+        "id_estudiante": 150,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-07"
+    },
+    {
+        "_id": "PA-80",
+        "id_estudiante": 116,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-02-16"
+    },
+    {
+        "_id": "PA-81",
+        "id_estudiante": 154,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-07-28"
+    },
+    {
+        "_id": "PA-82",
+        "id_estudiante": 218,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-07-09"
+    },
+    {
+        "_id": "PA-83",
+        "id_estudiante": 198,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-07-16"
+    },
+    {
+        "_id": "PA-84",
+        "id_estudiante": 54,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-16"
+    },
+    {
+        "_id": "PA-85",
+        "id_estudiante": 167,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-03-27"
+    },
+    {
+        "_id": "PA-86",
+        "id_estudiante": 183,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-11-28"
+    },
+    {
+        "_id": "PA-87",
+        "id_estudiante": 34,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-03"
+    },
+    {
+        "_id": "PA-88",
+        "id_estudiante": 150,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-09-07"
+    },
+    {
+        "_id": "PA-89",
+        "id_estudiante": 112,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-10-18"
+    },
+    {
+        "_id": "PA-90",
+        "id_estudiante": 174,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-02-09"
+    },
+    {
+        "_id": "PA-91",
+        "id_estudiante": 40,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-03"
+    },
+    {
+        "_id": "PA-92",
+        "id_estudiante": 114,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-06"
+    },
+    {
+        "_id": "PA-93",
+        "id_estudiante": 27,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-11-08"
+    },
+    {
+        "_id": "PA-94",
+        "id_estudiante": 201,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-21"
+    },
+    {
+        "_id": "PA-95",
+        "id_estudiante": 13,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-02-10"
+    },
+    {
+        "_id": "PA-96",
+        "id_estudiante": 110,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-03-26"
+    },
+    {
+        "_id": "PA-97",
+        "id_estudiante": 52,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-05-20"
+    },
+    {
+        "_id": "PA-98",
+        "id_estudiante": 128,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-03-15"
+    },
+    {
+        "_id": "PA-99",
+        "id_estudiante": 207,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-24"
+    },
+    {
+        "_id": "PA-100",
+        "id_estudiante": 76,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-04-14"
+    },
+    {
+        "_id": "PA-101",
+        "id_estudiante": 31,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad",
+            "pensamiento crítico",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-01-19"
+    },
+    {
+        "_id": "PA-102",
+        "id_estudiante": 33,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-09-28"
+    },
+    {
+        "_id": "PA-103",
+        "id_estudiante": 216,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-03-01"
+    },
+    {
+        "_id": "PA-104",
+        "id_estudiante": 149,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-29"
+    },
+    {
+        "_id": "PA-105",
+        "id_estudiante": 100,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-11-08"
+    },
+    {
+        "_id": "PA-106",
+        "id_estudiante": 36,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "comunicación",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-06-21"
+    },
+    {
+        "_id": "PA-107",
+        "id_estudiante": 6,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-29"
+    },
+    {
+        "_id": "PA-108",
+        "id_estudiante": 13,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-23"
+    },
+    {
+        "_id": "PA-109",
+        "id_estudiante": 42,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-12-14"
+    },
+    {
+        "_id": "PA-110",
+        "id_estudiante": 102,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-07-18"
+    },
+    {
+        "_id": "PA-111",
+        "id_estudiante": 55,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-04-24"
+    },
+    {
+        "_id": "PA-112",
+        "id_estudiante": 159,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-12-17"
+    },
+    {
+        "_id": "PA-113",
+        "id_estudiante": 17,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-15"
+    },
+    {
+        "_id": "PA-114",
+        "id_estudiante": 210,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-03-03"
+    },
+    {
+        "_id": "PA-115",
+        "id_estudiante": 207,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "comunicación",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-03-10"
+    },
+    {
+        "_id": "PA-116",
+        "id_estudiante": 220,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-07-10"
+    },
+    {
+        "_id": "PA-117",
+        "id_estudiante": 187,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-07-03"
+    },
+    {
+        "_id": "PA-118",
+        "id_estudiante": 197,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-08-19"
+    },
+    {
+        "_id": "PA-119",
+        "id_estudiante": 98,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-05-31"
+    },
+    {
+        "_id": "PA-120",
+        "id_estudiante": 23,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-05-25"
+    },
+    {
+        "_id": "PA-121",
+        "id_estudiante": 132,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-01-17"
+    },
+    {
+        "_id": "PA-122",
+        "id_estudiante": 49,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-09-26"
+    },
+    {
+        "_id": "PA-123",
+        "id_estudiante": 113,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-01-09"
+    },
+    {
+        "_id": "PA-124",
+        "id_estudiante": 42,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-04-04"
+    },
+    {
+        "_id": "PA-125",
+        "id_estudiante": 56,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "proactividad",
+            "comunicación",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-03-04"
+    },
+    {
+        "_id": "PA-126",
+        "id_estudiante": 164,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-05-02"
+    },
+    {
+        "_id": "PA-127",
+        "id_estudiante": 60,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-07-28"
+    },
+    {
+        "_id": "PA-128",
+        "id_estudiante": 157,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-10-18"
+    },
+    {
+        "_id": "PA-129",
+        "id_estudiante": 195,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-06-22"
+    },
+    {
+        "_id": "PA-130",
+        "id_estudiante": 187,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-04-13"
+    },
+    {
+        "_id": "PA-131",
+        "id_estudiante": 61,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-05-21"
+    },
+    {
+        "_id": "PA-132",
+        "id_estudiante": 123,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad",
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-01-27"
+    },
+    {
+        "_id": "PA-133",
+        "id_estudiante": 173,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-05-03"
+    },
+    {
+        "_id": "PA-134",
+        "id_estudiante": 34,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-04-01"
+    },
+    {
+        "_id": "PA-135",
+        "id_estudiante": 198,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-02"
+    },
+    {
+        "_id": "PA-136",
+        "id_estudiante": 120,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-07"
+    },
+    {
+        "_id": "PA-137",
+        "id_estudiante": 26,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación",
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-03-30"
+    },
+    {
+        "_id": "PA-138",
+        "id_estudiante": 39,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-04-23"
+    },
+    {
+        "_id": "PA-139",
+        "id_estudiante": 87,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-10-30"
+    },
+    {
+        "_id": "PA-140",
+        "id_estudiante": 84,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-08-01"
+    },
+    {
+        "_id": "PA-141",
+        "id_estudiante": 78,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-06"
+    },
+    {
+        "_id": "PA-142",
+        "id_estudiante": 136,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-02-26"
+    },
+    {
+        "_id": "PA-143",
+        "id_estudiante": 149,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-04-17"
+    },
+    {
+        "_id": "PA-144",
+        "id_estudiante": 83,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-01-25"
+    },
+    {
+        "_id": "PA-145",
+        "id_estudiante": 155,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-03-30"
+    },
+    {
+        "_id": "PA-146",
+        "id_estudiante": 157,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-04-06"
+    },
+    {
+        "_id": "PA-147",
+        "id_estudiante": 152,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-01-08"
+    },
+    {
+        "_id": "PA-148",
+        "id_estudiante": 210,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-01-02"
+    },
+    {
+        "_id": "PA-149",
+        "id_estudiante": 85,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-01-16"
+    },
+    {
+        "_id": "PA-150",
+        "id_estudiante": 195,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-05-14"
+    },
+    {
+        "_id": "PA-151",
+        "id_estudiante": 209,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-11-11"
+    },
+    {
+        "_id": "PA-152",
+        "id_estudiante": 67,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-31"
+    },
+    {
+        "_id": "PA-153",
+        "id_estudiante": 80,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-05-26"
+    },
+    {
+        "_id": "PA-154",
+        "id_estudiante": 109,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-04-22"
+    },
+    {
+        "_id": "PA-155",
+        "id_estudiante": 200,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-01-23"
+    },
+    {
+        "_id": "PA-156",
+        "id_estudiante": 167,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-19"
+    },
+    {
+        "_id": "PA-157",
+        "id_estudiante": 138,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-10-26"
+    },
+    {
+        "_id": "PA-158",
+        "id_estudiante": 179,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-07"
+    },
+    {
+        "_id": "PA-159",
+        "id_estudiante": 210,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "proactividad"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-03-09"
+    },
+    {
+        "_id": "PA-160",
+        "id_estudiante": 14,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-08-08"
+    },
+    {
+        "_id": "PA-161",
+        "id_estudiante": 66,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-04-07"
+    },
+    {
+        "_id": "PA-162",
+        "id_estudiante": 62,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-04-08"
+    },
+    {
+        "_id": "PA-163",
+        "id_estudiante": 106,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2026-01-27"
+    },
+    {
+        "_id": "PA-164",
+        "id_estudiante": 212,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-05-01"
+    },
+    {
+        "_id": "PA-165",
+        "id_estudiante": 196,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-05-26"
+    },
+    {
+        "_id": "PA-166",
+        "id_estudiante": 36,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-12-19"
+    },
+    {
+        "_id": "PA-167",
+        "id_estudiante": 139,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-08-27"
+    },
+    {
+        "_id": "PA-168",
+        "id_estudiante": 206,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-12-16"
+    },
+    {
+        "_id": "PA-169",
+        "id_estudiante": 211,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-03-10"
+    },
+    {
+        "_id": "PA-170",
+        "id_estudiante": 212,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "pensamiento crítico",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-02-13"
+    },
+    {
+        "_id": "PA-171",
+        "id_estudiante": 189,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "comunicación",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-02-14"
+    },
+    {
+        "_id": "PA-172",
+        "id_estudiante": 96,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-28"
+    },
+    {
+        "_id": "PA-173",
+        "id_estudiante": 117,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-09-28"
+    },
+    {
+        "_id": "PA-174",
+        "id_estudiante": 74,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-02-17"
+    },
+    {
+        "_id": "PA-175",
+        "id_estudiante": 161,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "análisis de datos",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-19"
+    },
+    {
+        "_id": "PA-176",
+        "id_estudiante": 150,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-05-24"
+    },
+    {
+        "_id": "PA-177",
+        "id_estudiante": 139,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-03-16"
+    },
+    {
+        "_id": "PA-178",
+        "id_estudiante": 167,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-10-31"
+    },
+    {
+        "_id": "PA-179",
+        "id_estudiante": 169,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "comunicación",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-22"
+    },
+    {
+        "_id": "PA-180",
+        "id_estudiante": 196,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-05-15"
+    },
+    {
+        "_id": "PA-181",
+        "id_estudiante": 107,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-04-01"
+    },
+    {
+        "_id": "PA-182",
+        "id_estudiante": 108,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "pensamiento crítico",
+            "trabajo en equipo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-12-10"
+    },
+    {
+        "_id": "PA-183",
+        "id_estudiante": 201,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-06-05"
+    },
+    {
+        "_id": "PA-184",
+        "id_estudiante": 77,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "proactividad",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-05-14"
+    },
+    {
+        "_id": "PA-185",
+        "id_estudiante": 87,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo",
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-30"
+    },
+    {
+        "_id": "PA-186",
+        "id_estudiante": 146,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "proactividad",
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-08-27"
+    },
+    {
+        "_id": "PA-187",
+        "id_estudiante": 75,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2026-03-02"
+    },
+    {
+        "_id": "PA-188",
+        "id_estudiante": 95,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-12-19"
+    },
+    {
+        "_id": "PA-189",
+        "id_estudiante": 152,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "comunicación",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-05-14"
+    },
+    {
+        "_id": "PA-190",
+        "id_estudiante": 7,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-04-17"
+    },
+    {
+        "_id": "PA-191",
+        "id_estudiante": 95,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "medio",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "optar por cursos avanzados"
+        ],
+        "ultima_actualizacion": "2025-12-04"
+    },
+    {
+        "_id": "PA-192",
+        "id_estudiante": 82,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-07-15"
+    },
+    {
+        "_id": "PA-193",
+        "id_estudiante": 102,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "proactividad",
+            "análisis de datos"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-01-24"
+    },
+    {
+        "_id": "PA-194",
+        "id_estudiante": 98,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "participar en proyectos de investigación",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-04-01"
+    },
+    {
+        "_id": "PA-195",
+        "id_estudiante": 82,
+        "estilo_aprendizaje": "multimodal",
+        "competencias_destacadas": [
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2026-01-04"
+    },
+    {
+        "_id": "PA-196",
+        "id_estudiante": 176,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "liderazgo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "participar en proyectos de investigación"
+        ],
+        "ultima_actualizacion": "2025-08-25"
+    },
+    {
+        "_id": "PA-197",
+        "id_estudiante": 32,
+        "estilo_aprendizaje": "visual",
+        "competencias_destacadas": [
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "optar por cursos avanzados",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2025-08-06"
+    },
+    {
+        "_id": "PA-198",
+        "id_estudiante": 32,
+        "estilo_aprendizaje": "lectura/escritura",
+        "competencias_destacadas": [
+            "análisis de datos",
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-07-21"
+    },
+    {
+        "_id": "PA-199",
+        "id_estudiante": 73,
+        "estilo_aprendizaje": "kinestésico",
+        "competencias_destacadas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "nivel_autonomia": "alto",
+        "recomendaciones": [
+            "unirse a grupos de estudio",
+            "mejorar control de tiempos de entrega"
+        ],
+        "ultima_actualizacion": "2026-04-16"
+    },
+    {
+        "_id": "PA-200",
+        "id_estudiante": 121,
+        "estilo_aprendizaje": "auditivo",
+        "competencias_destacadas": [
+            "liderazgo"
+        ],
+        "nivel_autonomia": "bajo",
+        "recomendaciones": [
+            "mejorar control de tiempos de entrega",
+            "unirse a grupos de estudio"
+        ],
+        "ultima_actualizacion": "2025-08-30"
+    }
+]

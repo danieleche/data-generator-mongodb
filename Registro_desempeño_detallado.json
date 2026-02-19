@@ -1,0 +1,4918 @@
+[
+    {
+        "_id": "RD-1",
+        "id_estudiante": 90,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 80
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-2",
+        "id_estudiante": 183,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 96
+        },
+        "fortalezas": [
+            "comunicación",
+            "proactividad"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-3",
+        "id_estudiante": 55,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 75
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "pensamiento crítico",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-4",
+        "id_estudiante": 216,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-04-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-5",
+        "id_estudiante": 133,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "bajo",
+            "asistencia": 77
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-03-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-6",
+        "id_estudiante": 27,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 93
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-7",
+        "id_estudiante": 209,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "bajo",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "comunicación",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-09-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-8",
+        "id_estudiante": 20,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 85
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-9",
+        "id_estudiante": 132,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-10",
+        "id_estudiante": 111,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 68
+        },
+        "fortalezas": [
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-11",
+        "id_estudiante": 167,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 94
+        },
+        "fortalezas": [
+            "comunicación",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-03-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-12",
+        "id_estudiante": 194,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "comunicación",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-13",
+        "id_estudiante": 106,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 73
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-14",
+        "id_estudiante": 67,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 76
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-15",
+        "id_estudiante": 79,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-08-19"
+            }
+        ]
+    },
+    {
+        "_id": "RD-16",
+        "id_estudiante": 131,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 70
+        },
+        "fortalezas": [
+            "proactividad",
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-17",
+        "id_estudiante": 80,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-18",
+        "id_estudiante": 195,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-09"
+            }
+        ]
+    },
+    {
+        "_id": "RD-19",
+        "id_estudiante": 48,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-09-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-20",
+        "id_estudiante": 152,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 65
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-09-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-21",
+        "id_estudiante": 213,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "bajo",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-22",
+        "id_estudiante": 34,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 86
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-23",
+        "id_estudiante": 124,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-24",
+        "id_estudiante": 183,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-25",
+        "id_estudiante": 97,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 76
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-26"
+            }
+        ]
+    },
+    {
+        "_id": "RD-26",
+        "id_estudiante": 106,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "alto",
+            "asistencia": 65
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-11-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-27",
+        "id_estudiante": 202,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "medio",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-28",
+        "id_estudiante": 42,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "bajo",
+            "asistencia": 86
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-05-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-29",
+        "id_estudiante": 85,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 95
+        },
+        "fortalezas": [
+            "proactividad",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-18"
+            }
+        ]
+    },
+    {
+        "_id": "RD-30",
+        "id_estudiante": 156,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-31",
+        "id_estudiante": 179,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 78
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-32",
+        "id_estudiante": 108,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-33",
+        "id_estudiante": 78,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "medio",
+            "asistencia": 79
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-01-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-34",
+        "id_estudiante": 1,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 95
+        },
+        "fortalezas": [
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-35",
+        "id_estudiante": 142,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "bajo",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-36",
+        "id_estudiante": 36,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.6,
+            "nivel_riesgo": "alto",
+            "asistencia": 65
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-37",
+        "id_estudiante": 95,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-38",
+        "id_estudiante": 48,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "liderazgo",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-09"
+            }
+        ]
+    },
+    {
+        "_id": "RD-39",
+        "id_estudiante": 80,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "medio",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-40",
+        "id_estudiante": 180,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-41",
+        "id_estudiante": 190,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "alto",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-42",
+        "id_estudiante": 7,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 65
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-06"
+            }
+        ]
+    },
+    {
+        "_id": "RD-43",
+        "id_estudiante": 159,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 71
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-04-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-44",
+        "id_estudiante": 37,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "medio",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-45",
+        "id_estudiante": 115,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-46",
+        "id_estudiante": 42,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 100
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-03-18"
+            }
+        ]
+    },
+    {
+        "_id": "RD-47",
+        "id_estudiante": 107,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 95
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-48",
+        "id_estudiante": 84,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "medio",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-49",
+        "id_estudiante": 162,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-50",
+        "id_estudiante": 203,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 90
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-01"
+            }
+        ]
+    },
+    {
+        "_id": "RD-51",
+        "id_estudiante": 54,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "bajo",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-52",
+        "id_estudiante": 83,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "liderazgo",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-53",
+        "id_estudiante": 214,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 96
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-05-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-54",
+        "id_estudiante": 175,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 96
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-13"
+            }
+        ]
+    },
+    {
+        "_id": "RD-55",
+        "id_estudiante": 93,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "comunicación",
+            "pensamiento crítico",
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-56",
+        "id_estudiante": 35,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.6,
+            "nivel_riesgo": "medio",
+            "asistencia": 70
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-57",
+        "id_estudiante": 73,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 85
+        },
+        "fortalezas": [
+            "proactividad",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-58",
+        "id_estudiante": 218,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-14"
+            }
+        ]
+    },
+    {
+        "_id": "RD-59",
+        "id_estudiante": 149,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-04-06"
+            }
+        ]
+    },
+    {
+        "_id": "RD-60",
+        "id_estudiante": 88,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-08-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-61",
+        "id_estudiante": 105,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-07-26"
+            }
+        ]
+    },
+    {
+        "_id": "RD-62",
+        "id_estudiante": 3,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 100
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-63",
+        "id_estudiante": 144,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "bajo",
+            "asistencia": 94
+        },
+        "fortalezas": [
+            "proactividad",
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-03-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-64",
+        "id_estudiante": 11,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 99
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-65",
+        "id_estudiante": 96,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "comunicación",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-66",
+        "id_estudiante": 215,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.6,
+            "nivel_riesgo": "alto",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-09"
+            }
+        ]
+    },
+    {
+        "_id": "RD-67",
+        "id_estudiante": 41,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-27"
+            }
+        ]
+    },
+    {
+        "_id": "RD-68",
+        "id_estudiante": 23,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-69",
+        "id_estudiante": 15,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "liderazgo",
+            "proactividad",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-70",
+        "id_estudiante": 193,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "proactividad",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-01-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-71",
+        "id_estudiante": 44,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 100
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-72",
+        "id_estudiante": 20,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-73",
+        "id_estudiante": 64,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "distracción",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-74",
+        "id_estudiante": 194,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-07-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-75",
+        "id_estudiante": 147,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-09-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-76",
+        "id_estudiante": 125,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 87
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-11-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-77",
+        "id_estudiante": 123,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 75
+        },
+        "fortalezas": [
+            "comunicación",
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-78",
+        "id_estudiante": 150,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "alto",
+            "asistencia": 75
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-01-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-79",
+        "id_estudiante": 150,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-80",
+        "id_estudiante": 116,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 69
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-81",
+        "id_estudiante": 154,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "alto",
+            "asistencia": 93
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-05-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-82",
+        "id_estudiante": 218,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-01-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-83",
+        "id_estudiante": 198,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "bajo",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-23"
+            }
+        ]
+    },
+    {
+        "_id": "RD-84",
+        "id_estudiante": 54,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "alto",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-01"
+            }
+        ]
+    },
+    {
+        "_id": "RD-85",
+        "id_estudiante": 167,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 5.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 86
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-04-01"
+            }
+        ]
+    },
+    {
+        "_id": "RD-86",
+        "id_estudiante": 183,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-05-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-87",
+        "id_estudiante": 34,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-88",
+        "id_estudiante": 150,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-16"
+            }
+        ]
+    },
+    {
+        "_id": "RD-89",
+        "id_estudiante": 112,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-16"
+            }
+        ]
+    },
+    {
+        "_id": "RD-90",
+        "id_estudiante": 174,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "alto",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-91",
+        "id_estudiante": 40,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.5,
+            "nivel_riesgo": "alto",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-92",
+        "id_estudiante": 114,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "bajo",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "liderazgo",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-04-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-93",
+        "id_estudiante": 27,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "alto",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "proactividad",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-11-04"
+            }
+        ]
+    },
+    {
+        "_id": "RD-94",
+        "id_estudiante": 201,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-04-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-95",
+        "id_estudiante": 13,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "alto",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-04"
+            }
+        ]
+    },
+    {
+        "_id": "RD-96",
+        "id_estudiante": 110,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "bajo",
+            "asistencia": 65
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-97",
+        "id_estudiante": 52,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-11"
+            }
+        ]
+    },
+    {
+        "_id": "RD-98",
+        "id_estudiante": 128,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 70
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-03-04"
+            }
+        ]
+    },
+    {
+        "_id": "RD-99",
+        "id_estudiante": 207,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-100",
+        "id_estudiante": 76,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 69
+        },
+        "fortalezas": [
+            "liderazgo",
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-09-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-101",
+        "id_estudiante": 31,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 100
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-27"
+            }
+        ]
+    },
+    {
+        "_id": "RD-102",
+        "id_estudiante": 33,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 87
+        },
+        "fortalezas": [
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-103",
+        "id_estudiante": 216,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 79
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad",
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-23"
+            }
+        ]
+    },
+    {
+        "_id": "RD-104",
+        "id_estudiante": 149,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "comunicación",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-05-13"
+            }
+        ]
+    },
+    {
+        "_id": "RD-105",
+        "id_estudiante": 100,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-03-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-106",
+        "id_estudiante": 36,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-107",
+        "id_estudiante": 6,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "bajo",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-108",
+        "id_estudiante": 13,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "medio",
+            "asistencia": 64
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-04"
+            }
+        ]
+    },
+    {
+        "_id": "RD-109",
+        "id_estudiante": 42,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-110",
+        "id_estudiante": 102,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "bajo",
+            "asistencia": 78
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-111",
+        "id_estudiante": 55,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-14"
+            }
+        ]
+    },
+    {
+        "_id": "RD-112",
+        "id_estudiante": 159,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "medio",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-113",
+        "id_estudiante": 17,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 68
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-114",
+        "id_estudiante": 210,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 90
+        },
+        "fortalezas": [
+            "proactividad",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-115",
+        "id_estudiante": 207,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "bajo",
+            "asistencia": 78
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-116",
+        "id_estudiante": 220,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.8,
+            "nivel_riesgo": "medio",
+            "asistencia": 94
+        },
+        "fortalezas": [
+            "proactividad",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-117",
+        "id_estudiante": 187,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "comunicación",
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-09"
+            }
+        ]
+    },
+    {
+        "_id": "RD-118",
+        "id_estudiante": 197,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "bajo",
+            "asistencia": 77
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-119",
+        "id_estudiante": 98,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-120",
+        "id_estudiante": 23,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 69
+        },
+        "fortalezas": [
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-121",
+        "id_estudiante": 132,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 5.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 77
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "proactividad",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-122",
+        "id_estudiante": 49,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 87
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-123",
+        "id_estudiante": 113,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-124",
+        "id_estudiante": 42,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-125",
+        "id_estudiante": 56,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "comunicación",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-04-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-126",
+        "id_estudiante": 164,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 63
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-127",
+        "id_estudiante": 60,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 70
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-01-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-128",
+        "id_estudiante": 157,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-19"
+            }
+        ]
+    },
+    {
+        "_id": "RD-129",
+        "id_estudiante": 195,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "liderazgo",
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-130",
+        "id_estudiante": 187,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "medio",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-18"
+            }
+        ]
+    },
+    {
+        "_id": "RD-131",
+        "id_estudiante": 61,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 93
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-132",
+        "id_estudiante": 123,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "bajo",
+            "asistencia": 73
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-04"
+            }
+        ]
+    },
+    {
+        "_id": "RD-133",
+        "id_estudiante": 173,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 90
+        },
+        "fortalezas": [
+            "comunicación",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-01-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-134",
+        "id_estudiante": 34,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 89
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-03-14"
+            }
+        ]
+    },
+    {
+        "_id": "RD-135",
+        "id_estudiante": 198,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-136",
+        "id_estudiante": 120,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 96
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-04-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-137",
+        "id_estudiante": 26,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-138",
+        "id_estudiante": 39,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "alto",
+            "asistencia": 80
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-03-01"
+            }
+        ]
+    },
+    {
+        "_id": "RD-139",
+        "id_estudiante": 87,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "bajo",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-140",
+        "id_estudiante": 84,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 61
+        },
+        "fortalezas": [
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-12"
+            }
+        ]
+    },
+    {
+        "_id": "RD-141",
+        "id_estudiante": 78,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "bajo",
+            "asistencia": 84
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "comunicación",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-142",
+        "id_estudiante": 136,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 78
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-143",
+        "id_estudiante": 149,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "bajo",
+            "asistencia": 83
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-04-13"
+            }
+        ]
+    },
+    {
+        "_id": "RD-144",
+        "id_estudiante": 83,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-19"
+            }
+        ]
+    },
+    {
+        "_id": "RD-145",
+        "id_estudiante": 155,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-146",
+        "id_estudiante": 157,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.8,
+            "nivel_riesgo": "medio",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "proactividad",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-22"
+            }
+        ]
+    },
+    {
+        "_id": "RD-147",
+        "id_estudiante": 152,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "medio",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-08-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-148",
+        "id_estudiante": 210,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "medio",
+            "asistencia": 85
+        },
+        "fortalezas": [
+            "liderazgo"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-27"
+            }
+        ]
+    },
+    {
+        "_id": "RD-149",
+        "id_estudiante": 85,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 87
+        },
+        "fortalezas": [
+            "comunicación",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-07-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-150",
+        "id_estudiante": 195,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-07-19"
+            }
+        ]
+    },
+    {
+        "_id": "RD-151",
+        "id_estudiante": 209,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "proactividad",
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-152",
+        "id_estudiante": 67,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "comunicación",
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-153",
+        "id_estudiante": 80,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-10-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-154",
+        "id_estudiante": 109,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 78
+        },
+        "fortalezas": [
+            "comunicación",
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-23"
+            }
+        ]
+    },
+    {
+        "_id": "RD-155",
+        "id_estudiante": 200,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-05-10"
+            }
+        ]
+    },
+    {
+        "_id": "RD-156",
+        "id_estudiante": 167,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "comunicación",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-14"
+            }
+        ]
+    },
+    {
+        "_id": "RD-157",
+        "id_estudiante": 138,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 86
+        },
+        "fortalezas": [
+            "proactividad",
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-12-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-158",
+        "id_estudiante": 179,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-06-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-159",
+        "id_estudiante": 210,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "comunicación",
+            "pensamiento crítico",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-160",
+        "id_estudiante": 14,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-08-07"
+            }
+        ]
+    },
+    {
+        "_id": "RD-161",
+        "id_estudiante": 66,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "medio",
+            "asistencia": 81
+        },
+        "fortalezas": [
+            "comunicación",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-11-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-162",
+        "id_estudiante": 62,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "liderazgo",
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-163",
+        "id_estudiante": 106,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 69
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-04-23"
+            }
+        ]
+    },
+    {
+        "_id": "RD-164",
+        "id_estudiante": 212,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "bajo",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-02-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-165",
+        "id_estudiante": 196,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 93
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-30"
+            }
+        ]
+    },
+    {
+        "_id": "RD-166",
+        "id_estudiante": 36,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-06-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-167",
+        "id_estudiante": 139,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-168",
+        "id_estudiante": 206,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 60
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "comunicación"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-169",
+        "id_estudiante": 211,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "medio",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "comunicación",
+            "proactividad"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-25"
+            }
+        ]
+    },
+    {
+        "_id": "RD-170",
+        "id_estudiante": 212,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 82
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-06"
+            }
+        ]
+    },
+    {
+        "_id": "RD-171",
+        "id_estudiante": 189,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 5.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 80
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-08-06"
+            }
+        ]
+    },
+    {
+        "_id": "RD-172",
+        "id_estudiante": 96,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "alto",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "comunicación",
+            "pensamiento crítico",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "distracción",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-23"
+            }
+        ]
+    },
+    {
+        "_id": "RD-173",
+        "id_estudiante": 117,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 77
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "trabajo en equipo",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-12-09"
+            }
+        ]
+    },
+    {
+        "_id": "RD-174",
+        "id_estudiante": 74,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 94
+        },
+        "fortalezas": [
+            "liderazgo",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-01-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-175",
+        "id_estudiante": 161,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.7,
+            "nivel_riesgo": "medio",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "comunicación"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-02"
+            }
+        ]
+    },
+    {
+        "_id": "RD-176",
+        "id_estudiante": 150,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 97
+        },
+        "fortalezas": [
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-17"
+            }
+        ]
+    },
+    {
+        "_id": "RD-177",
+        "id_estudiante": 139,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "medio",
+            "asistencia": 85
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-03-28"
+            }
+        ]
+    },
+    {
+        "_id": "RD-178",
+        "id_estudiante": 167,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 3.2,
+            "nivel_riesgo": "bajo",
+            "asistencia": 87
+        },
+        "fortalezas": [
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-11-21"
+            }
+        ]
+    },
+    {
+        "_id": "RD-179",
+        "id_estudiante": 169,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 72
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-180",
+        "id_estudiante": 196,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 61
+        },
+        "fortalezas": [
+            "proactividad",
+            "análisis de datos"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-181",
+        "id_estudiante": 107,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "bajo",
+            "asistencia": 100
+        },
+        "fortalezas": [
+            "comunicación",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "distracción",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-182",
+        "id_estudiante": 108,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.7,
+            "nivel_riesgo": "alto",
+            "asistencia": 89
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-183",
+        "id_estudiante": 201,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 73
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-05-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-184",
+        "id_estudiante": 77,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.1,
+            "nivel_riesgo": "medio",
+            "asistencia": 86
+        },
+        "fortalezas": [
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-05"
+            }
+        ]
+    },
+    {
+        "_id": "RD-185",
+        "id_estudiante": 87,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.3,
+            "nivel_riesgo": "alto",
+            "asistencia": 91
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-186",
+        "id_estudiante": 146,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 88
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "proactividad"
+        ],
+        "debilidades": [
+            "distracción",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Prof. Gómez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-04-20"
+            }
+        ]
+    },
+    {
+        "_id": "RD-187",
+        "id_estudiante": 75,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "medio",
+            "asistencia": 75
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-02-06"
+            }
+        ]
+    },
+    {
+        "_id": "RD-188",
+        "id_estudiante": 95,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "proactividad",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-04-29"
+            }
+        ]
+    },
+    {
+        "_id": "RD-189",
+        "id_estudiante": 152,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "bajo",
+            "asistencia": 62
+        },
+        "fortalezas": [
+            "proactividad"
+        ],
+        "debilidades": [
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-01-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-190",
+        "id_estudiante": 7,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.6,
+            "nivel_riesgo": "bajo",
+            "asistencia": 80
+        },
+        "fortalezas": [
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2026-02-27"
+            }
+        ]
+    },
+    {
+        "_id": "RD-191",
+        "id_estudiante": 95,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 5.0,
+            "nivel_riesgo": "alto",
+            "asistencia": 67
+        },
+        "fortalezas": [
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica",
+            "falta de participación"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-08-14"
+            }
+        ]
+    },
+    {
+        "_id": "RD-192",
+        "id_estudiante": 82,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.9,
+            "nivel_riesgo": "bajo",
+            "asistencia": 92
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-04-16"
+            }
+        ]
+    },
+    {
+        "_id": "RD-193",
+        "id_estudiante": 102,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 2.9,
+            "nivel_riesgo": "alto",
+            "asistencia": 77
+        },
+        "fortalezas": [
+            "análisis de datos",
+            "proactividad"
+        ],
+        "debilidades": [
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-09-01"
+            }
+        ]
+    },
+    {
+        "_id": "RD-194",
+        "id_estudiante": 98,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.1,
+            "nivel_riesgo": "alto",
+            "asistencia": 73
+        },
+        "fortalezas": [
+            "proactividad",
+            "comunicación",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "falta de participación",
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-03"
+            }
+        ]
+    },
+    {
+        "_id": "RD-195",
+        "id_estudiante": 82,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 2.6,
+            "nivel_riesgo": "medio",
+            "asistencia": 74
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-04-08"
+            }
+        ]
+    },
+    {
+        "_id": "RD-196",
+        "id_estudiante": 176,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 4.8,
+            "nivel_riesgo": "alto",
+            "asistencia": 85
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "liderazgo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "nerviosismo en exposiciones"
+        ],
+        "observaciones": [
+            {
+                "docente": "Lic. Martínez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-10-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-197",
+        "id_estudiante": 32,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 4.0,
+            "nivel_riesgo": "medio",
+            "asistencia": 89
+        },
+        "fortalezas": [
+            "trabajo en equipo",
+            "pensamiento crítico"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dr. Fernández",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2026-01-31"
+            }
+        ]
+    },
+    {
+        "_id": "RD-198",
+        "id_estudiante": 32,
+        "periodo": "2026-1",
+        "indicadores": {
+            "promedio_general": 3.4,
+            "nivel_riesgo": "alto",
+            "asistencia": 66
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "liderazgo",
+            "trabajo en equipo"
+        ],
+        "debilidades": [
+            "gestión del tiempo",
+            "redacción técnica"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Debe mejorar su enfoque.",
+                "fecha": "2025-03-15"
+            }
+        ]
+    },
+    {
+        "_id": "RD-199",
+        "id_estudiante": 73,
+        "periodo": "2025-2",
+        "indicadores": {
+            "promedio_general": 4.2,
+            "nivel_riesgo": "medio",
+            "asistencia": 73
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "comunicación"
+        ],
+        "debilidades": [
+            "distracción"
+        ],
+        "observaciones": [
+            {
+                "docente": "Dra. Pérez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-04-24"
+            }
+        ]
+    },
+    {
+        "_id": "RD-200",
+        "id_estudiante": 121,
+        "periodo": "2025-1",
+        "indicadores": {
+            "promedio_general": 3.5,
+            "nivel_riesgo": "bajo",
+            "asistencia": 98
+        },
+        "fortalezas": [
+            "pensamiento crítico",
+            "análisis de datos",
+            "liderazgo"
+        ],
+        "debilidades": [
+            "gestión del tiempo"
+        ],
+        "observaciones": [
+            {
+                "docente": "Ing. Rodríguez",
+                "comentario": "Muestra evolución en su rendimiento.",
+                "fecha": "2025-09-24"
+            }
+        ]
+    }
+]
